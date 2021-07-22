@@ -1,7 +1,7 @@
 # machine_learning_py
 Class project for BSGP7030_SU2021
 
-This project was adapted from the tuotrial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+This project was adapted from the tutorial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
 Link to original tutorial: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 
